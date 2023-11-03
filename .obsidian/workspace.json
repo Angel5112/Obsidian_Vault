@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "a0e3248ff3059885",
+    "type": "split",
+    "children": [
+      {
+        "id": "568b064d9af76f50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e03d05716df4357e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UCAB/Universidad Católica Andres Bello.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26ad925ad18fceee",
+    "type": "split",
+    "children": [
+      {
+        "id": "6996fb6b5f5bf38b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec86868eba50147a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6af7abd217d0a312",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "428386d9e3aa0395",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da59d0b6d3237383",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ffdd70e4ed228d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "098057cfcfd8faae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UCAB/Universidad Católica Andres Bello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73eba02d906096bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UCAB/Universidad Católica Andres Bello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7755c10aa8ba82f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b61df6451e64239d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UCAB/Universidad Católica Andres Bello.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e03d05716df4357e",
+  "lastOpenFiles": [
+    "UCAB/Álgebra Lineal.md",
+    "UCAB/Sistemas de Ecuaciones.md",
+    "UCAB/Matrices y Determinantes.md",
+    "UCAB/Números Complejos.md",
+    "UCAB/Universidad Católica Andres Bello.md",
+    "Main Hub.md",
+    "Software Engineering",
+    "CheatSheets",
+    "Recetario",
+    "UCAB",
+    "UCAB/Física General.md",
+    "UCAB/Contabilidad Financiera.md",
+    "UCAB/Ecología, Ambiente y Sustentabilidad.md",
+    "Recetario/Recetario.md",
+    "CheatSheets/Cheat Sheets.md",
+    "Software Engineering/Software Engineering.md",
+    "Markdown Cheatsheet.md",
+    "Python.md",
+    "LaTeX Suite Cheatsheet.md",
+    "Algebra Lineal.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs/snippets/related.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/weekly.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/time.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/monthly.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Today.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Now.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Date.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Daily.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Annual Note.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs/snippets",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs/YouTube.md",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Formatting",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Dataview",
+    "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210323185756.png",
+    "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210224210010.png",
+    "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122452.png",
+    "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122444.png",
+    "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122438.png",
+    "Templates/Obsidian-Template-Vault-1.0.0/Journal/Weekly"
+  ]
+}
