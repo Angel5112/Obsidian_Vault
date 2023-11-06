@@ -1,7 +1,7 @@
 ### UCAB Tasks:
 
-- [ ] Desarrollo del Trabajo de Ecología - Arco Minero del Orinoco
-- [x] Agregar las notas del antiguo vault
+- [ ] Trabajo de Ecología - Arco Minero del Orinoco
+- [ ] Videos de Vectores 2D y 3D - Algebra Lineal
 
 ### Software Engineering Tasks:
 
@@ -10,15 +10,15 @@
 
 ### Recetario Tasks:
 
-- [x] Agregar recetas de Notion al recetario
+- [x] Empty
 
 ### Cheatsheet Tasks:
 
-- [x] Agregar las cheatsheets del antiguo vault
+- [x] LaTeX Suite Cheatsheet
 
 ### Other Tasks:
 
-- [x] Encontrar la laptop de Andreina
+- [x] Ganar la Supercopa de España - Valencia CF
 
 ##### Tags
 

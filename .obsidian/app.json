@@ -2,5 +2,5 @@
   "defaultViewMode": "preview",
   "showIndentGuide": false,
   "alwaysUpdateLinks": true,
-  "spellcheck": false
+  "spellcheck": true
 }
