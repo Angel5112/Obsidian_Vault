@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Hub.md",
+                "file": "To Do List/To Do List.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#clase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Hub.md",
+                "file": "To Do List/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Hub.md",
+                "file": "To Do List/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Hub.md"
+                "file": "To Do List/To Do List.md"
               }
             }
           }
@@ -148,33 +148,33 @@
   },
   "active": "e03d05716df4357e",
   "lastOpenFiles": [
+    "UCAB/Libro Diario y Libro Mayor.md",
+    "UCAB/Contabilidad Financiera.md",
+    "UCAB/Tipos de Cuentas.md",
+    "UCAB/Introducción a la Contabilidad Financiera.md",
+    "UCAB/Números Complejos.md",
+    "UCAB/Álgebra Lineal.md",
+    "UCAB/Sistemas de Ecuaciones.md",
+    "UCAB/Matrices y Determinantes.md",
+    "CheatSheets/Markdown.md",
     "To Do List/To Do List.md",
+    "CheatSheets/LaTeX Suite.md",
+    "Recetario/Marquesa de Chocolate.md",
+    "Recetario/Galletas de Avena con Chocolate.md",
+    "Recetario/Cookies Chip.md",
+    "Recetario/Milanesa de Res.md",
+    "Recetario/Torta Marmolada.md",
+    "Recetario/Bizcocho de Limon.md",
+    "Recetario/Salsa de Ajo.md",
     "Main Hub.md",
     "Recetario/Recetario.md",
-    "Recetario/Marquesa de Chocolate.md",
-    "Recetario/Cookies Chip.md",
-    "Recetario/Bizcocho de Limon.md",
-    "Recetario/Torta Marmolada.md",
-    "Recetario/Galletas de Avena con Chocolate.md",
-    "Recetario/Milanesa de Res.md",
-    "Recetario/Salsa de Ajo.md",
     "CheatSheets/Cheat Sheets.md",
-    "CheatSheets/Markdown.md",
-    "CheatSheets/LaTeX Suite.md",
     "UCAB/Universidad Católica Andres Bello.md",
     "Software Engineering/Software Engineering.md",
     "Software Engineering/IDEs, Code Editors, Apps....md",
-    "UCAB/Números Complejos.md",
     "Software Engineering/Programming Languages.md",
     "Software Engineering/Linux Command Line.md",
-    "Software Engineering/VS Code.md",
-    "Software Engineering/Books.md",
-    "Software Engineering/Frameworks & Libraries.md",
-    "UCAB/Álgebra Lineal.md",
     "To Do List",
-    "UCAB/Sistemas de Ecuaciones.md",
-    "UCAB/Matrices y Determinantes.md",
-    "UCAB/Contabilidad Financiera.md",
     "Software Engineering",
     "CheatSheets",
     "Recetario",
