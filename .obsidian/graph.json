@@ -1,26 +1,75 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "#todo",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#main_hub  ",
       "color": {
         "a": 1,
-        "rgb": 11424480
+        "rgb": 10506976
+      }
+    },
+    {
+      "query": "tag:#UCAB tag:#ucab",
+      "color": {
+        "a": 1,
+        "rgb": 5431401
+      }
+    },
+    {
+      "query": "tag:#clase tag:#class",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#software",
+      "color": {
+        "a": 1,
+        "rgb": 5397472
+      }
+    },
+    {
+      "query": "tag:#courses",
+      "color": {
+        "a": 1,
+        "rgb": 5431518
+      }
+    },
+    {
+      "query": "tag:#cheat tag:#cheatsheet",
+      "color": {
+        "a": 1,
+        "rgb": 14715730
+      }
+    },
+    {
+      "query": "tag:#recetario tag:#recipe",
+      "color": {
+        "a": 1,
+        "rgb": 15346218
+      }
+    },
+    {
+      "query": "tag:#todo tag:#todolist tag:#list",
+      "color": {
+        "a": 1,
+        "rgb": 16120075
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,

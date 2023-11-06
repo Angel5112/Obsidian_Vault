@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UCAB/Universidad Católica Andres Bello.md",
+                "file": "To Do List/To Do List.md",
                 "mode": "preview",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#clase",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UCAB/Universidad Católica Andres Bello.md",
+                "file": "To Do List/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UCAB/Universidad Católica Andres Bello.md",
+                "file": "To Do List/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UCAB/Universidad Católica Andres Bello.md"
+                "file": "To Do List/To Do List.md"
               }
             }
           }
@@ -148,37 +148,38 @@
   },
   "active": "e03d05716df4357e",
   "lastOpenFiles": [
+    "UCAB/Libro Diario y Libro Mayor.md",
+    "UCAB/Contabilidad Financiera.md",
+    "UCAB/Tipos de Cuentas.md",
+    "UCAB/Introducción a la Contabilidad Financiera.md",
+    "UCAB/Números Complejos.md",
     "UCAB/Álgebra Lineal.md",
     "UCAB/Sistemas de Ecuaciones.md",
     "UCAB/Matrices y Determinantes.md",
-    "UCAB/Números Complejos.md",
-    "UCAB/Universidad Católica Andres Bello.md",
+    "CheatSheets/Markdown.md",
+    "To Do List/To Do List.md",
+    "CheatSheets/LaTeX Suite.md",
+    "Recetario/Marquesa de Chocolate.md",
+    "Recetario/Galletas de Avena con Chocolate.md",
+    "Recetario/Cookies Chip.md",
+    "Recetario/Milanesa de Res.md",
+    "Recetario/Torta Marmolada.md",
+    "Recetario/Bizcocho de Limon.md",
+    "Recetario/Salsa de Ajo.md",
     "Main Hub.md",
+    "Recetario/Recetario.md",
+    "CheatSheets/Cheat Sheets.md",
+    "UCAB/Universidad Católica Andres Bello.md",
+    "Software Engineering/Software Engineering.md",
+    "Software Engineering/IDEs, Code Editors, Apps....md",
+    "Software Engineering/Programming Languages.md",
+    "Software Engineering/Linux Command Line.md",
+    "To Do List",
     "Software Engineering",
     "CheatSheets",
     "Recetario",
     "UCAB",
-    "UCAB/Física General.md",
-    "UCAB/Contabilidad Financiera.md",
-    "UCAB/Ecología, Ambiente y Sustentabilidad.md",
-    "Recetario/Recetario.md",
-    "CheatSheets/Cheat Sheets.md",
-    "Software Engineering/Software Engineering.md",
-    "Markdown Cheatsheet.md",
-    "Python.md",
-    "LaTeX Suite Cheatsheet.md",
-    "Algebra Lineal.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs/snippets/related.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/weekly.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/time.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/monthly.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Today.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Now.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Date.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Daily.md",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal/Annual Note.md",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs/snippets",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs/YouTube.md",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Formatting",
@@ -187,7 +188,6 @@
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210224210010.png",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122452.png",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122444.png",
-    "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122438.png",
-    "Templates/Obsidian-Template-Vault-1.0.0/Journal/Weekly"
+    "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122438.png"
   ]
 }

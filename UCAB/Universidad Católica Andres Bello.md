@@ -1,30 +1,36 @@
-## Fundamentos de Ingeniería
+### Fundamentos de Ingeniería
 
 - [[Álgebra Lineal]]
 - [[Física General]]
 
-## Lógica y Programación
+### Lógica y Programación
 
+- Empty
 
+### Ingeniería de Software
 
-## Ingeniería de Software
+- Empty
 
+### Telemática
 
+- Empty
 
-## Telemática
-
-
-
-## Formación Gerencial
+### Formación Gerencial
 
 - [[Contabilidad Financiera]]
 
-## Formación Integral
+### Formación Integral
 
 - [[Ecología, Ambiente y Sustentabilidad]]
 
-## Electivas
+### Electivas
 
+- Empty
 
+### Prácticas Profesionales
 
-## Prácticas Profesionales
+- Empty
+
+##### Tags
+
+#UCAB #ucab

@@ -1,5 +1,6 @@
 {
   "defaultViewMode": "preview",
   "showIndentGuide": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
 }
