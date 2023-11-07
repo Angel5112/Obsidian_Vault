@@ -1,6 +1,6 @@
 ### UCAB Tasks:
 
-- [ ] Trabajo de Ecología - Arco Minero del Orinoco
+- [x] Trabajo de Ecología - Arco Minero del Orinoco
 - [ ] Videos de Vectores 2D y 3D - Algebra Lineal
 
 ### Software Engineering Tasks:
