@@ -1,6 +1,6 @@
 ### Definición
 
-Los asientos de cierre se efectúan para cerrar y cancelar las cuentas de ingresos y gastos. En definitiva, se trata del último asiento que se realiza en el Libro Diario.
+Los asientos de cierre se efectúan para cerrar y cancelar las cuentas de **Ingresos y Gastos.** En definitiva, se trata del último asiento que se realiza en el Libro Diario.
 
 El objetivo de este tipo de asiento es **poner las cuentas a cero**, cargando todas las cuentas que presenten saldo acreedor y abonando todas las que lo tengan deudor. Realizado el asiento, obtendremos la información necesaria para presentar el Balance de Situación y cuantificar el Patrimonio Neto de la empresa.
 <br>
@@ -9,7 +9,7 @@ El objetivo de este tipo de asiento es **poner las cuentas a cero**, cargando t
 
 - Realización previa del **Balance de Comprobación** para mejor referencia.
 - Realización previa de los **Asientos de Ajuste.**
-- Registro de todos los asientos, pues los asientos de cierre deben ir al final del libro diario.
+- Registro de todas las cuentas de **Ingresos y Gastos,** pues los asientos de cierre deben ir al final del libro diario.
 
 #### Elaboración de los Asientos de Cierre
 

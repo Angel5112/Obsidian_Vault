@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "f2c5e9d043181b13",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f76f5cbde3423c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adce38360405d021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UCAB/Depreciaciones, Alquileres y Seguros.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1caa2785e160865",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3ee27810553faa0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1de9cd6ae084134c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0f266140542e44f5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3fc4b79337ab3095",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f58d349a5e78fcd3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "be42f305be3cc0ba",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "UCAB/Depreciaciones, Alquileres y Seguros.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e952eca9f20a92ae",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "UCAB/Depreciaciones, Alquileres y Seguros.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3ba926dce946258b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "UCAB/Depreciaciones, Alquileres y Seguros.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "adce38360405d021",
+  "lastOpenFiles": [
+    "UCAB/Contabilidad Financiera.md",
+    "UCAB/Depreciaciones, Alquileres y Seguros.md",
+    "UCAB/Asientos de Ajuste.md",
+    "UCAB/Asientos de Cierre.md",
+    "UCAB/Universidad Católica Andres Bello.md",
+    "To Do List/To Do List.md",
+    "Main Hub.md",
+    "UCAB/Álgebra Lineal.md",
+    "UCAB/Tipos de Cuentas.md",
+    "UCAB/Sistemas de Ecuaciones.md",
+    "UCAB/Números Complejos.md",
+    "UCAB/Matrices y Determinantes.md",
+    "UCAB/Libro Diario y Libro Mayor.md",
+    "UCAB/Introducción a la Contabilidad Financiera.md",
+    "UCAB/Física General.md",
+    "UCAB/Ecología, Ambiente y Sustentabilidad.md",
+    "Software Engineering/VS Code.md",
+    "Software Engineering/Software Engineering.md",
+    "Software Engineering/Programming Languages.md",
+    "Software Engineering/Linux Command Line.md",
+    "Software Engineering/IDEs, Code Editors, Apps....md",
+    "Software Engineering/Frameworks & Libraries.md",
+    "Software Engineering/Books.md",
+    "Recetario/Torta Marmolada.md",
+    "Recetario/Salsa de Ajo.md",
+    "Recetario/Recetario.md",
+    "UCAB",
+    "To Do List",
+    "Software Engineering",
+    "Recetario",
+    "CheatSheets"
+  ]
+}
