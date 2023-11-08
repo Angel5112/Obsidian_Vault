@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "568b064d9af76f50",
+        "id": "73652f97b5f2d48a",
         "type": "tabs",
         "children": [
           {
-            "id": "e03d05716df4357e",
+            "id": "8903ff87aefee118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Linux Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "458be90840ae9b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,18 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e03d05716df4357e",
+  "active": "458be90840ae9b3e",
   "lastOpenFiles": [
-    "CheatSheets/LaTeX Suite.md",
+    "UCAB/Depreciaciones, Alquileres y Seguros.md",
+    "UCAB/Contabilidad Financiera.md",
+    "UCAB/Introducción a la Contabilidad Financiera.md",
+    "UCAB/Asientos de Ajuste.md",
+    "UCAB/Asientos de Cierre.md",
     "To Do List/To Do List.md",
+    "Software Engineering/VS Code.md",
+    "Software Engineering/Linux Command Line.md",
+    "Software Engineering/IDEs, Code Editors, Apps....md",
+    "CheatSheets/LaTeX Suite.md",
     "CheatSheets/Markdown.md",
     "Main Hub.md",
     "UCAB/Números Complejos.md",
     "UCAB/Álgebra Lineal.md",
     "UCAB/Libro Diario y Libro Mayor.md",
-    "UCAB/Contabilidad Financiera.md",
     "UCAB/Tipos de Cuentas.md",
-    "UCAB/Introducción a la Contabilidad Financiera.md",
     "UCAB/Sistemas de Ecuaciones.md",
     "UCAB/Matrices y Determinantes.md",
     "Recetario/Marquesa de Chocolate.md",
@@ -168,12 +187,6 @@
     "Recetario/Bizcocho de Limon.md",
     "Recetario/Salsa de Ajo.md",
     "Recetario/Recetario.md",
-    "CheatSheets/Cheat Sheets.md",
-    "UCAB/Universidad Católica Andres Bello.md",
-    "Software Engineering/Software Engineering.md",
-    "Software Engineering/IDEs, Code Editors, Apps....md",
-    "Software Engineering/Programming Languages.md",
-    "Software Engineering/Linux Command Line.md",
     "To Do List",
     "Software Engineering",
     "CheatSheets",

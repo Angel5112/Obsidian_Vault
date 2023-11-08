@@ -1,12 +1,13 @@
 ### UCAB Tasks:
 
-- [x] Trabajo de Ecología - Arco Minero del Orinoco
+- [ ] Videos de MCU, MCUV y Movimiento Relativo - Física
 - [ ] Videos de Vectores 2D y 3D - Algebra Lineal
+- [x] Agregar notas - Contabilidad
+- [ ] Juntar partes del trabajo - Ecología
 
 ### Software Engineering Tasks:
 
-- [ ] Videos de VS Code - YouTube
-- [ ] Videos de Linux Command Line
+- [x] Videos de VS Code - YouTube
 
 ### Recetario Tasks:
 
@@ -14,11 +15,11 @@
 
 ### Cheatsheet Tasks:
 
-- [x] LaTeX Suite Cheatsheet
+- [x] Empty
 
 ### Other Tasks:
 
-- [x] Ganar la Supercopa de España - Valencia CF
+- [x] Empty
 
 ##### Tags
 
