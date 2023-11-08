@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md",
+                "file": "To Do List/To Do List.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "458be90840ae9b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do List/To Do List.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,16 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "458be90840ae9b3e",
+  "active": "8903ff87aefee118",
   "lastOpenFiles": [
-    "UCAB/Depreciaciones, Alquileres y Seguros.md",
-    "UCAB/Contabilidad Financiera.md",
-    "UCAB/Introducción a la Contabilidad Financiera.md",
-    "UCAB/Asientos de Ajuste.md",
-    "UCAB/Asientos de Cierre.md",
-    "To Do List/To Do List.md",
     "Software Engineering/VS Code.md",
+    "To Do List/To Do List.md",
     "Software Engineering/Linux Command Line.md",
+    "UCAB/Contabilidad Financiera.md",
+    "UCAB/Asientos de Cierre.md",
+    "UCAB/Asientos de Ajuste.md",
+    "UCAB/Depreciaciones, Alquileres y Seguros.md",
+    "UCAB/Introducción a la Contabilidad Financiera.md",
     "Software Engineering/IDEs, Code Editors, Apps....md",
     "CheatSheets/LaTeX Suite.md",
     "CheatSheets/Markdown.md",
