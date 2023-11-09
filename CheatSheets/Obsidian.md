@@ -16,6 +16,8 @@
 
 *Cancelar Cerrado de Panel:*  Ctrl + Shift + T
 
+*Cambiar estado de checkbox:*  Ctrl + L
+
 *Abrir barra de comandos:*  Ctrl + P
 
 *Búsqueda en Nota:*  Ctrl + F

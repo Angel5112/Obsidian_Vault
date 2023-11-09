@@ -2,7 +2,6 @@
 
 - [ ] Videos de MCU, MCUV y Movimiento Relativo - Física
 - [ ] Videos de Vectores 2D y 3D - Algebra Lineal
-- [x] Agregar Interes Simple - Contabilidad
 
 ### Software Engineering Tasks:
 
@@ -14,11 +13,11 @@
 
 ### Cheatsheet Tasks:
 
-- [x] Obsidian Cheatsheet
+- [x] Empty
 
 ### Other Tasks:
 
-- [ ] Ganar la Copa del Rey - Valencia CF
+- [ ] Clasificar a Semifinales de la UEFA Champions League - Valencia CF
 
 ##### Tags
 
