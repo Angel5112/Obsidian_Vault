@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "course",
+  "search": "#cheat",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 1.000000000000001,
   "close": false
 }

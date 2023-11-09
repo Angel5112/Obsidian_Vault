@@ -6,7 +6,7 @@
 <br>
 ### Asientos de Ajuste, Asientos de Cierre y Depreciaciones
 
-* [[Depreciaciones, Alquileres y Seguros]]
+* [[Depreciaciones, Alquileres, Seguros e Interés Simple]]
 * [[Asientos de Ajuste]]
 * [[Asientos de Cierre]]
 

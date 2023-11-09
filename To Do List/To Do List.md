@@ -2,7 +2,7 @@
 
 - [ ] Videos de MCU, MCUV y Movimiento Relativo - Física
 - [ ] Videos de Vectores 2D y 3D - Algebra Lineal
-- [ ] Agregar Interes Simple - Contabilidad
+- [x] Agregar Interes Simple - Contabilidad
 
 ### Software Engineering Tasks:
 
@@ -14,7 +14,7 @@
 
 ### Cheatsheet Tasks:
 
-- [ ] Obsidian Cheatsheet
+- [x] Obsidian Cheatsheet
 
 ### Other Tasks:
 
