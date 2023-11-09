@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8f6eeeacbb84d14d",
+        "id": "00fb0774125ccdb8",
         "type": "tabs",
         "children": [
           {
-            "id": "c24ab67815879252",
+            "id": "32c0a933752ac37f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "To Do List/To Do List.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f337f676c6056c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Linux Command Line.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#clase",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,12 +78,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da59d0b6d3237383",
@@ -82,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Software Engineering/Linux Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Software Engineering/Linux Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Software Engineering/Linux Command Line.md"
+              }
             }
           }
         ]
@@ -139,20 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6af7abd217d0a312",
+  "active": "7f337f676c6056c6",
   "lastOpenFiles": [
     "To Do List/To Do List.md",
-    "UCAB/Contabilidad Financiera.md",
-    "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
-    "Software Engineering/VS Code.md",
+    "CheatSheets/Obsidian.md",
     "Software Engineering/Linux Command Line.md",
+    "Software Engineering/Software Engineering.md",
+    "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
+    "Untitled.md",
+    "CheatSheets/Cheat Sheets.md",
+    "Main Hub.md",
+    "CheatSheets/Markdown.md",
+    "UCAB/Contabilidad Financiera.md",
+    "Software Engineering/VS Code.md",
     "UCAB/Asientos de Cierre.md",
     "UCAB/Asientos de Ajuste.md",
     "UCAB/Introducción a la Contabilidad Financiera.md",
     "Software Engineering/IDEs, Code Editors, Apps....md",
     "CheatSheets/LaTeX Suite.md",
-    "CheatSheets/Markdown.md",
-    "Main Hub.md",
     "UCAB/Números Complejos.md",
     "UCAB/Álgebra Lineal.md",
     "UCAB/Libro Diario y Libro Mayor.md",
@@ -163,10 +188,6 @@
     "Recetario/Galletas de Avena con Chocolate.md",
     "Recetario/Cookies Chip.md",
     "Recetario/Milanesa de Res.md",
-    "Recetario/Torta Marmolada.md",
-    "Recetario/Bizcocho de Limon.md",
-    "Recetario/Salsa de Ajo.md",
-    "Recetario/Recetario.md",
     "To Do List",
     "Software Engineering",
     "CheatSheets",

@@ -2,8 +2,6 @@
 
 ### [[Programming Languages]]
 
-### [[Frameworks & Libraries]]
-
 ### [[Books]]
 
 ##### Tags

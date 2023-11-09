@@ -2,6 +2,7 @@
 
 - [[LaTeX Suite]]
 - [[Markdown]]
+- [[Obsidian]]
 
 ##### Tags
 

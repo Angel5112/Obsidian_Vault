@@ -14,7 +14,7 @@
 
 ### Cheatsheet Tasks:
 
-- [ ] Obsidian Cheatsheet
+- [x] Obsidian Cheatsheet
 
 ### Other Tasks:
 
