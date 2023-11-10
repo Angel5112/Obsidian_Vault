@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "To Do List/To Do List.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cea0c03a374596b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Linux Command Line.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da59d0b6d3237383",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md",
+                "file": "To Do List/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md",
+                "file": "To Do List/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md"
+                "file": "To Do List/To Do List.md"
               }
             }
           }
@@ -159,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea0c03a374596b6",
+  "active": "0cd6581f2dd4626c",
   "lastOpenFiles": [
-    "To Do List/To Do List.md",
     "Software Engineering/Linux Command Line.md",
+    "To Do List/To Do List.md",
     "CheatSheets/Obsidian.md",
     "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
     "Software Engineering/VS Code.md",

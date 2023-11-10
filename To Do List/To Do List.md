@@ -5,7 +5,7 @@
 
 ### Software Engineering Tasks:
 
-- [ ] Videos de Linux Command Line
+- [x] Videos de Linux Command Line
 
 ### Recetario Tasks:
 
@@ -17,7 +17,7 @@
 
 ### Other Tasks:
 
-- [ ] Clasificar a Semifinales de la UEFA Champions League - Valencia CF
+- [x] Clasificar a la Final de la Copa del Rey - Valencia CF
 
 ##### Tags
 
