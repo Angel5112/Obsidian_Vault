@@ -8,7 +8,11 @@
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "cea0c03a374596b6",
+=======
+            "id": "0cd6581f2dd4626c",
+>>>>>>> ce47ace5af0e8927d49cf08a006c85d86dd174ba
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da59d0b6d3237383",
@@ -146,7 +151,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea0c03a374596b6",
+  "active": "0cd6581f2dd4626c",
   "lastOpenFiles": [
     "Software Engineering/Linux Command Line.md",
     "To Do List/To Do List.md",

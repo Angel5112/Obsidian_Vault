@@ -1,9 +1,63 @@
+### Conceptos Básicos
+
+*GUI:* Graphical User Interface - Interfaz grafica
+
+*CLI:*  Command Line Interface - Terminal
+<br>
 ### Comandos
 
-*Cat:*  Muestra el contenido completo de un archivo -> `cat <file>`
+*pwd:*  Print Working Directory - Muestra el directorio actual -> `pwd`
 
+*exit:*  Salir de comandos, terminal o interfaces -> `exit`
 
+*whoami:*  Muestra el usuario del sistema -> `whoami`
 
+*hostname:*  Muestra el nombre del host del sistema -> `hostname`
+
+*man:*  Muestra un manual de un comando enviado como parámetro -> `man <command>`
+
+*ls:*  Lista todos los archivos del directorio -> `ls`
+
+*ls -l:*  Lista de forma mas ordenada y detallada -> `ls -l`
+
+*clear:*  Limpia toda la pantalla de la terminal -> `clear`
+
+*cd:*  Cambia a un directorio indicado -> `cd <path/.../>`
+
+*cd .. :*  Retorna al directorio anterior -> `cd ..`
+
+*mkdir:*  Crea un nuevo directorio -> `mkdir <directory name>`
+
+*touch:*  Crea un archivo vacío -> `touch <filename>`
+
+*echo:*  Muestra strings en la terminal enviados como parámetro -> `echo <"string">`
+
+*rm:*  Elimina un archivo -> `rm <filename>`
+
+*rm -r:*  Elimina un directorio mediante recursión -> `rm -r <directory name>`
+
+*rmdir:*  Elimina un directorio vacio -> `rmdir <directory name>`
+
+*mv:*  Mueve un archivo a un path indicado -> `mv <file> <path/.../>`
+
+*mv (renombrar):*  Renombrar un archivo -> `mv <file> <new file name>`
+
+*cp:*  Crea una copia del archivo -> `cp <file> <copy file name>`
+
+*head:*  Muestra el inicio de un archivo -> `head <filename>`
+
+*tail:*  Muestra el final de un archivo -> `tail <filename>`
+
+*cat:*  Muestra el contenido completo de un archivo -> `cat <file>`
+
+*wget:*  Obtiene informacion de internet en un archivo -> `wget <link/.../filename>`
+
+*curl:*  Parecido a wget, pero se le pasa a un archivo -> `curl <link> > <filename>`
+
+*zip:*  Comprime un archivo -> `zip <file.zip> <file>`
+
+*unzip:*  Descomprime un archivo -> `unzip <file.zip>`
+<br>
 ### Paquetes y Utilidades
 
 *Desinstalar paquete:*  Remover paquete -> `sudo apt remove <package>`
@@ -28,12 +82,12 @@
 
 *Ranger:*  Gestor de archivos nativo en la terminal -> `ranger`
 
-*Tmux:*  Permite tener multiples sesiones de shell a la vez -> `tmux`
-
+*Tmux:*  Permite tener múltiples sesiones de shell a la vez -> `tmux`
+<br>
 ### Tmux Hotkeys
 #### Sesiones
 
-*Version:*  Muestra la version actual de Tmux -> `tmux -V`
+*Version:*  Muestra la versión actual de Tmux -> `tmux -V`
 
 *Sesiones Activas:*  Muestra las sesiones activas en el sistema -> `tmux ls`
 
