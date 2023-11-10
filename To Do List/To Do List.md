@@ -1,11 +1,12 @@
 ### UCAB Tasks:
 
-- [ ] Videos de MCU, MCUV y Movimiento Relativo - Física
 - [ ] Videos de Vectores 2D y 3D - Algebra Lineal
+- [ ] Plan de Accion del Proyecto - Ecologia
 
 ### Software Engineering Tasks:
 
-- [ ] Videos de Linux Command Line
+- [ ] Videos de Tmux plugins y config.
+- [ ] Videos de Powershell
 
 ### Recetario Tasks:
 
