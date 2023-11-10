@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
             "id": "cea0c03a374596b6",
-=======
-            "id": "0cd6581f2dd4626c",
->>>>>>> ce47ace5af0e8927d49cf08a006c85d86dd174ba
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do List/To Do List.md",
-                "mode": "source",
+                "file": "Software Engineering/Linux Command Line.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -73,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da59d0b6d3237383",
@@ -90,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List/To Do List.md",
+                "file": "Software Engineering/Linux Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do List/To Do List.md",
+                "file": "Software Engineering/Linux Command Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List/To Do List.md"
+                "file": "Software Engineering/Linux Command Line.md"
               }
             }
           }
@@ -151,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cd6581f2dd4626c",
+  "active": "cea0c03a374596b6",
   "lastOpenFiles": [
-    "Software Engineering/Linux Command Line.md",
     "To Do List/To Do List.md",
+    "Software Engineering/Linux Command Line.md",
     "CheatSheets/Obsidian.md",
     "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
     "Software Engineering/VS Code.md",

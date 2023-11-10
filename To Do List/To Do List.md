@@ -5,12 +5,8 @@
 
 ### Software Engineering Tasks:
 
-<<<<<<< HEAD
 - [ ] Videos de Tmux plugins y config.
 - [ ] Videos de Powershell
-=======
-- [x] Videos de Linux Command Line
->>>>>>> ce47ace5af0e8927d49cf08a006c85d86dd174ba
 
 ### Recetario Tasks:
 
@@ -22,7 +18,7 @@
 
 ### Other Tasks:
 
-- [x] Clasificar a la Final de la Copa del Rey - Valencia CF
+- [ ] Clasificar a las Semifinales de la UEFA Champions League - Valencia CF
 
 ##### Tags
 
