@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da59d0b6d3237383",
@@ -149,6 +148,7 @@
   },
   "active": "8bfbf9756d91dbb5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "To Do List/To Do List.md",
     "Software Engineering/Linux Command Line.md",
     "CheatSheets/Obsidian.md",
@@ -174,7 +174,6 @@
     "Recetario/Cookies Chip.md",
     "Recetario/Milanesa de Res.md",
     "Recetario/Torta Marmolada.md",
-    "Recetario/Bizcocho de Limon.md",
     "To Do List",
     "Software Engineering",
     "CheatSheets",

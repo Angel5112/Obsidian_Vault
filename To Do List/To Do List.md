@@ -1,11 +1,12 @@
 ### UCAB Tasks:
 
-- [ ] Videos de MCU, MCUV y Movimiento Relativo - Física
 - [ ] Videos de Vectores 2D y 3D - Algebra Lineal
+- [ ] Plan de Accion del Proyecto - Ecologia
 
 ### Software Engineering Tasks:
 
-- [x] Videos de Linux Command Line
+- [ ] Videos de Tmux plugins y config.
+- [ ] Videos de Powershell
 
 ### Recetario Tasks:
 
@@ -17,7 +18,7 @@
 
 ### Other Tasks:
 
-- [x] Clasificar a la Final de la Copa del Rey - Valencia CF
+- [ ] Clasificar a las Semifinales de la UEFA Champions League - Valencia CF
 
 ##### Tags
 
