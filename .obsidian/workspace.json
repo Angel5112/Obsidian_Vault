@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73652f97b5f2d48a",
+        "id": "629f01ebcc0d6005",
         "type": "tabs",
         "children": [
           {
-            "id": "0cd6581f2dd4626c",
+            "id": "8bfbf9756d91dbb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "To Do List/To Do List.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -147,10 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cd6581f2dd4626c",
+  "active": "8bfbf9756d91dbb5",
   "lastOpenFiles": [
-    "Software Engineering/Linux Command Line.md",
     "To Do List/To Do List.md",
+    "Software Engineering/Linux Command Line.md",
     "CheatSheets/Obsidian.md",
     "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
     "Software Engineering/VS Code.md",
