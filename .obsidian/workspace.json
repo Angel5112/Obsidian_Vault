@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "73652f97b5f2d48a",
+        "id": "629f01ebcc0d6005",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "e500ad881260fa2f",
+=======
+            "id": "8bfbf9756d91dbb5",
+>>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "UCAB/Vectores en el Plano y Espacio.md",
                 "mode": "source",
                 "source": false
@@ -38,6 +43,9 @@
               "type": "markdown",
               "state": {
                 "file": "Geometria en el Espacio.md",
+=======
+                "file": "To Do List/To Do List.md",
+>>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
                 "mode": "preview",
                 "source": false
               }
@@ -172,6 +180,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "2905f9fbceac20f1",
   "lastOpenFiles": [
     "CheatSheets/LaTeX Suite.md",
@@ -180,6 +189,11 @@
     "Software Engineering/Vim.md",
     "UCAB/Álgebra Lineal.md",
     "UCAB/Sistemas de Ecuaciones.md",
+=======
+  "active": "8bfbf9756d91dbb5",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+>>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
     "To Do List/To Do List.md",
     "UCAB/Vectores en el Plano y Espacio",
     "Software Engineering/Linux Command Line.md",
@@ -201,6 +215,12 @@
     "UCAB/Matrices y Determinantes.md",
     "Recetario/Marquesa de Chocolate.md",
     "Recetario/Galletas de Avena con Chocolate.md",
+<<<<<<< HEAD
+=======
+    "Recetario/Cookies Chip.md",
+    "Recetario/Milanesa de Res.md",
+    "Recetario/Torta Marmolada.md",
+>>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
     "To Do List",
     "Software Engineering",
     "CheatSheets",
