@@ -14,11 +14,13 @@
 
 *Raiz Cuadrada:*  sq ó \\sqrt{ }
 
+*Valor Absoluto:*  mid (Inicio y Final)
+
 *Fracciones:*  // ó \frac{ }{ }
 
 *Subindice:*  x"num" ó x_{num}
 
-*Producto:*  cdot
+*Producto:*  cdot ó times
 
 *Vectores:*  "letra"vec ó \vec{ letra }
 
@@ -29,6 +31,12 @@
 *Virgulilla:*  "letra"tilde ó \tilde{ letra }
 
 *Subrayado:*  "letra"und ó \underline{ letra }
+
+*Grados:*  ^{\circ}
+
+*Sistema de Ecuaciones:*  cases y \\\\ para separar cada ecuación
+
+*Matrices:*  matrix ó pmatrix ó vmatrix ó bmatrix
 <br>
 ### Abecedario Griego
 

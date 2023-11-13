@@ -84,7 +84,7 @@
 
 *Tmux:*  Permite tener múltiples sesiones de shell a la vez -> `tmux`
 <br>
-### Tmux Hotkeys
+### TMUX Hotkeys
 #### Sesiones
 
 *Version:*  Muestra la versión actual de Tmux -> `tmux -V`
@@ -92,6 +92,8 @@
 *Sesiones Activas:*  Muestra las sesiones activas en el sistema -> `tmux ls`
 
 *Crear Nueva Sesión:*  Crea una nueva sesión con un nombre ingresado por el usuario en la terminal -> `tmux new -s <session name>`
+
+*Ejecutar tmux.conf:*  Activa plugins -> `tmux source ~/.config/tmux/tmux.conf`
 
 *Renombrar una Sesión:*  Renombrar una sesión -> `tmux rename-session -t <old name> <new name>`
 
@@ -113,6 +115,10 @@
 
 *Ir a Panel*  Ctrl + B LeftKey / RightKey / UpKey / DownKey
 
+*Minimizar o Maximizar Panel (Horizontal):*  Ctrl + B + LeftKey / RightKey
+
+*Minimizar o Maximizar Panel (Vertical):*  Ctrl + B + DownKey / UpKey 
+
 *Cerrar Panel:* Eliminar un panel de la ventana -> `exit` ó `tmux kill-pane`
 
 *Crear una Ventana:*  Ctrl + B C
@@ -120,8 +126,52 @@
 *Moverse a otra Ventana:*  Ctrl + B < Numero de Ventana >
 
 *Renombrar una Ventana:*  Ctrl + B ,
+ 
+*Hacer zoom a una ventana en especifico:*  Ctrl + B Z
 
 *Eliminar una Ventana:*  Eliminar ventana -> `tmux kill-window -t <window name>`
+<br>
+### TMUX Plugins y Configuración
+#### Instalar TPM (Tmux Plugin Manager)
+1. Clonar el repositorio mediante el siguiente comando -> `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
+2. Crear el directorio **tmux** en **$HOME**
+3. Crear el archivo **tmux.conf** -> `touch ~/.config/tmux/tmux.conf`
+4. Abrir **tmux.conf** con cualquier edito de texto.
+5. Copiar:
+~~~bash
+set -g @plugin 'tmux-plugins/tpm'
+set -g @plugin 'tmux-plugins/tmux-sensible'
+
+# Esto siempre debe ir al final de tmux.conf
+run '~/.tmux/plugins/tpm/tpm'
+~~~
+6. Abrir una sesión de tmux y usar el comando -> `tmux source ~/.config/tmux/tmux.conf`
+7. Agregar el **tmux.conf** a **.bashrc** para que se guarde en sesiones globales (siempre se ejecutara) -> `echo "tmux source ~/.config/tmux/tmux.conf"`
+<br>
+#### Instalar Plugins
+
+1. Colocar en **tmux.conf** -> `set -g @plugin "plugin-data"`
+2. En tmux usar **Ctrl +B I**
+<br>
+### Instalar Temas, Fuentes e Iconos
+#### Temas
+1. Descargar el tema en internet.
+2. Mover el tema descargado a `/ usr/share/themes`
+3. Extraer el tema en dicho directorio (usar **sudo**)
+4. En **Tweaks,** cambiar el tema del equipo con el descargado.
+
+#### Fuentes
+1. Descargar la fuente en internet.
+2. Mover la fuente descargada a `/ usr/local/share/fonts`
+3. Extraer la fuente en dicho directorio (usar **sudo**)
+4. En **Tweaks,** cambiar la fuente del equipo y asignar su tamaño.
+5. Para la terminal, ir a **Preferencias** y seleccionar la fuente deseada.
+
+#### Iconos
+1. Descargar el paquete de iconos en internet.
+2. Mover los iconos a `/ usr/share/icons`
+3. Extraer el paquete de iconos en dicho directorio (usar **sudo**)
+4. En **Tweaks,** cambiar los iconos del equipo con el paquete descargado.
 <br>
 ### Instalar aplicaciones mediante .deb packages (64 bits)
 #### Instalación Manual

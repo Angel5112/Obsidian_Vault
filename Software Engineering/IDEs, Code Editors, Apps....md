@@ -2,9 +2,10 @@
 
 - [[Linux Command Line]]
 
-### Multiplatform Tools
+### IDEs, Text Editors y Apps
 
 - [[VS Code]]
+- [[Vim]]
 
 ##### Tags
 

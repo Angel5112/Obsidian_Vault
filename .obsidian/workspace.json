@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cea0c03a374596b6",
+            "id": "e500ad881260fa2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md",
+                "file": "UCAB/Vectores en el Plano y Espacio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2905f9fbceac20f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do List/To Do List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25f88dc5a9f9ab6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geometria en el Espacio.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da59d0b6d3237383",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md",
+                "file": "To Do List/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md",
+                "file": "To Do List/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Engineering/Linux Command Line.md"
+                "file": "To Do List/To Do List.md"
               }
             }
           }
@@ -146,34 +172,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cea0c03a374596b6",
+  "active": "2905f9fbceac20f1",
   "lastOpenFiles": [
+    "CheatSheets/LaTeX Suite.md",
+    "UCAB/Vectores en el Plano y Espacio.md",
+    "Geometria en el Espacio.md",
+    "Software Engineering/Vim.md",
+    "UCAB/Álgebra Lineal.md",
+    "UCAB/Sistemas de Ecuaciones.md",
     "To Do List/To Do List.md",
+    "UCAB/Vectores en el Plano y Espacio",
     "Software Engineering/Linux Command Line.md",
+    "Software Engineering/IDEs, Code Editors, Apps....md",
+    "Software Engineering/VS Code.md",
+    "Software Engineering/Software Engineering.md",
+    "CheatSheets/Markdown.md",
     "CheatSheets/Obsidian.md",
     "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
-    "Software Engineering/VS Code.md",
     "UCAB/Contabilidad Financiera.md",
     "UCAB/Asientos de Cierre.md",
     "UCAB/Asientos de Ajuste.md",
     "UCAB/Depreciaciones, Alquileres y Seguros.md",
     "UCAB/Introducción a la Contabilidad Financiera.md",
-    "Software Engineering/IDEs, Code Editors, Apps....md",
-    "CheatSheets/LaTeX Suite.md",
-    "CheatSheets/Markdown.md",
     "Main Hub.md",
     "UCAB/Números Complejos.md",
-    "UCAB/Álgebra Lineal.md",
     "UCAB/Libro Diario y Libro Mayor.md",
     "UCAB/Tipos de Cuentas.md",
-    "UCAB/Sistemas de Ecuaciones.md",
     "UCAB/Matrices y Determinantes.md",
     "Recetario/Marquesa de Chocolate.md",
     "Recetario/Galletas de Avena con Chocolate.md",
-    "Recetario/Cookies Chip.md",
-    "Recetario/Milanesa de Res.md",
-    "Recetario/Torta Marmolada.md",
-    "Recetario/Bizcocho de Limon.md",
     "To Do List",
     "Software Engineering",
     "CheatSheets",
@@ -183,7 +210,6 @@
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Formatting",
-    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Dataview",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210323185756.png",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210224210010.png",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122452.png",
