@@ -1,14 +1,14 @@
 ### UCAB Tasks:
 
-- [x] Videos de Vectores 2D y 3D - Algebra Lineal
 - [ ] Plan de Acción del Proyecto - Ecología
-- [ ] Videos de MCU y MCUV - Física
+- [ ] Videos de MCU, MCUV y Movimiento Parabolico - Física
 
 ### Software Engineering Tasks:
 
-- [x] Videos de Tmux plugins y config.
-- [x] Videos de neovim
-- [ ] Instalar GitHub Copilot en Neovim (Esperando aprovacion de GitHub)
+- [ ] Instalar GitHub Copilot en Neovim (Esperando aprobacion de GitHub)
+- [ ] Pasar Repositorios a la nueva cuenta de GitHub
+- [ ] Configurar Perfil de GitHub
+- [ ] Configurar WSL para tener mismo Setup
 
 ### Recetario Tasks:
 
@@ -20,7 +20,7 @@
 
 ### Other Tasks:
 
-- [ ] 3 Runs - Enter the Gungeon
+- [x] Empty
 
 ##### Tags
 

@@ -4,26 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "629f01ebcc0d6005",
+        "id": "73652f97b5f2d48a",
         "type": "tabs",
         "children": [
-          {
-<<<<<<< HEAD
-            "id": "e500ad881260fa2f",
-=======
-            "id": "8bfbf9756d91dbb5",
->>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "UCAB/Vectores en el Plano y Espacio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "2905f9fbceac20f1",
             "type": "leaf",
@@ -37,15 +20,24 @@
             }
           },
           {
-            "id": "25f88dc5a9f9ab6d",
+            "id": "fb9d3c5a1a0bbb5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geometria en el Espacio.md",
-=======
-                "file": "To Do List/To Do List.md",
->>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
+                "file": "UCAB/Física General.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ad79d3a6fa830da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CheatSheets/LaTeX Suite.md",
                 "mode": "preview",
                 "source": false
               }
@@ -119,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List/To Do List.md",
+                "file": "UCAB/Física General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do List/To Do List.md",
+                "file": "UCAB/Física General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List/To Do List.md"
+                "file": "UCAB/Física General.md"
               }
             }
           }
@@ -180,21 +172,20 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "2905f9fbceac20f1",
+  "active": "fb9d3c5a1a0bbb5c",
   "lastOpenFiles": [
+    "UCAB/Universidad Católica Andres Bello.md",
+    "Movimiento Parabólico.md",
+    "To Do List/To Do List.md",
     "CheatSheets/LaTeX Suite.md",
+    "MCU - MCUV.md",
+    "Movimiento Relativo.md",
     "UCAB/Vectores en el Plano y Espacio.md",
+    "UCAB/Álgebra Lineal.md",
+    "UCAB/Física General.md",
     "Geometria en el Espacio.md",
     "Software Engineering/Vim.md",
-    "UCAB/Álgebra Lineal.md",
     "UCAB/Sistemas de Ecuaciones.md",
-=======
-  "active": "8bfbf9756d91dbb5",
-  "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
->>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
-    "To Do List/To Do List.md",
     "UCAB/Vectores en el Plano y Espacio",
     "Software Engineering/Linux Command Line.md",
     "Software Engineering/IDEs, Code Editors, Apps....md",
@@ -210,17 +201,6 @@
     "UCAB/Introducción a la Contabilidad Financiera.md",
     "Main Hub.md",
     "UCAB/Números Complejos.md",
-    "UCAB/Libro Diario y Libro Mayor.md",
-    "UCAB/Tipos de Cuentas.md",
-    "UCAB/Matrices y Determinantes.md",
-    "Recetario/Marquesa de Chocolate.md",
-    "Recetario/Galletas de Avena con Chocolate.md",
-<<<<<<< HEAD
-=======
-    "Recetario/Cookies Chip.md",
-    "Recetario/Milanesa de Res.md",
-    "Recetario/Torta Marmolada.md",
->>>>>>> f907c4e32b813241a574fdecf6f8e2eb30a0e435
     "To Do List",
     "Software Engineering",
     "CheatSheets",

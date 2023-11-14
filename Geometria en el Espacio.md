@@ -1,6 +1,6 @@
 ### Conceptos Básicos
 
-**Puntos en el Espacio:**  $P(a_{1},b_{1},c_{1})$ y $Q(a_{2},b_{2},c_{3})$
+**Puntos en el Espacio:**  $P(a_{1},b_{1},c_{1})$ y $Q(a_{2},b_{2},c_{2})$
 
 **Distancia en el Espacio:**  $d(P, Q)=\sqrt{ (a_{1}-a_{2})^2+(b_{1}-b_{2})^2+(c_{1}-c_{2})^2 }$
 
