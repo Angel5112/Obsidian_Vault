@@ -14,6 +14,10 @@
 
 **Aceleración Centripeta:**  $a_{c}=w^2\cdot R=\frac{v_{T}^2}{R}$ *NOTA -> R = Radio*
 
+**Aceleración Radial:**  $a_{r}=-a_{c}$
+
+**Aceleración (Como vector):**  $a_{T}=0\to \vec{a}=\vec{a_{N}}=\vec{-a_{c}}$
+
 **Frecuencia Angular:**  $f=\frac{n}{t}=\frac{1}{T}$  *NOTA -> n = Número Vueltas y T = Periodo*
 
 **Velocidad Angular:**  $w=2\pi f=\frac{2\pi}{T}=\frac{2\pi n}{t}$
@@ -43,6 +47,8 @@
 **Desplazamiento Angular (ángulo de barrido o Nro Vueltas):**  $\theta=\theta_{0}+w_{0}\cdot t\pm\frac{1}{2}\cdot \alpha \cdot t^2$
 
 *Nota:*  Para el numero de vueltas se divide $\theta$ entre $\frac{1vuelta}{2\pi rad}$
+
+*Nota 2:*  Si se usa diámetro, multiplicar por 2 el resultado (Teoría)
 
 **Aceleración Normal:**  $a_{N}=-a_{c}=-\frac{v_{T}^2}{R}=-w^2\cdot R$
 
