@@ -1,11 +1,14 @@
 ### UCAB Tasks:
 
 - [ ] Plan de Acción del Proyecto - Ecología
-- [ ] Videos de MCU, MCUV y Movimiento Parabolico - Física
+- [x] Videos de MCU, MCUV y Movimiento Parabólico - Física
+- [ ] Ejercicios de Movimiento Relativo, MCU y MCUV - Física
+- [ ] Realizar Formulario - Física
+- [ ] Agregar Parametrizacion de Planos - Algebra Lineal
 
 ### Software Engineering Tasks:
 
-- [ ] Instalar GitHub Copilot en Neovim (Esperando aprobacion de GitHub)
+- [x] Instalar GitHub Copilot en Neovim (Esperando aprobación de GitHub)
 - [ ] Pasar Repositorios a la nueva cuenta de GitHub
 - [ ] Configurar Perfil de GitHub
 - [ ] Configurar WSL para tener mismo Setup

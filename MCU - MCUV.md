@@ -26,17 +26,31 @@
 <br>
 ### Formulas - MCUV
 
+**Importante:**  $w=w_{f}$
+
+**Importante 2:**  Si nos dan velocidad final e inicial en km/h o m/s,  usar $v_{f}=v_{0}+a_{T}\cdot t$
+
 **Aceleración Tangencial:**  $a_{T}=\alpha \cdot R$ *Nota -> $\alpha$ = Aceleración Angular*
 
-**Velocidad Angular:**  $w=w_{0}+\alpha \cdot t$
+**Velocidad Angular:**  $w_{f}=w_{0}+\alpha \cdot t$
 
-**Desplazamiento Angular:**  $\theta=\theta_{0}+w_{0}\cdot t\pm\frac{1}{2}\cdot \alpha \cdot t^2$
+**Velocidad Angular:**  $w_{f}^2=w_{0}^2+2\alpha(\theta_{f}-\theta_{0})$
+
+**Cambio de movimiento:**  $w_{o2}=w_{f_{1}}$
+
+**Velocidad (Con velocidad angular ctte):**  $v_{f}=w_{f}\cdot R$
+
+**Desplazamiento Angular (ángulo de barrido o Nro Vueltas):**  $\theta=\theta_{0}+w_{0}\cdot t\pm\frac{1}{2}\cdot \alpha \cdot t^2$
+
+*Nota:*  Para el numero de vueltas se divide $\theta$ entre $\frac{1vuelta}{2\pi rad}$
 
 **Aceleración Normal:**  $a_{N}=-a_{c}=-\frac{v_{T}^2}{R}=-w^2\cdot R$
 
 **Aceleración (como vector $a_{T}+a_{c}$):**  $\vec{a}=a_{N}\cdot \hat{u_{r}}+a_{T}\cdot \hat{u_{T}}$
 
-**Modulo de Aceleración:**  $\mid \vec{a}\mid=\sqrt{ a_{N}^2 +a_{T}^2}$
+**Modulo de Aceleración (a.k.a Aceleración Total):**  $\mid \vec{a}\mid=\sqrt{ a_{N}^2 +a_{T}^2}$
+
+*Nota:*  Cuando son múltiples movimientos, dividir los datos por cada tipo de movimiento en el problema y se halla la solución por cada movimiento, el resultado generalmente vendrá dado por la suma de cada movimiento.
 <br>
 ##### Tags
 

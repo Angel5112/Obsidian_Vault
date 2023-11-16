@@ -18,7 +18,7 @@ Usado para la resolución de *Problemas Vectoriales* y **NO** requieren de trans
 ### Recomendaciones
 
 1. No perder tiempo con **transformación de unidades,** solo hazlo si hay unidades diferentes en el problema.
-2. Identifica **Objeto y Transporte,** así sabras trabajar mas eficazmente.
+2. Identifica **Objeto y Transporte,** así sabrás trabajar mas eficazmente, la ecuación la podrás armar leyendo todo el problema, *EL ORDEN IMPORTA, LLUVIA AUTO $\neq$ AUTO LLUVIA*
 3. Domina y reconoce cuando utilizar **sistemas de ecuaciones** con las componentes *i, j* de los vectores.
 
 ##### Tags

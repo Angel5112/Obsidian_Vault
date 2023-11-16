@@ -4,47 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "73652f97b5f2d48a",
+        "id": "629f01ebcc0d6005",
         "type": "tabs",
         "children": [
           {
-            "id": "2905f9fbceac20f1",
+            "id": "8bfbf9756d91dbb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "To Do List/To Do List.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c98932b6e9b357ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Linux Command Line.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fb9d3c5a1a0bbb5c",
+            "id": "3a1651f025d63ee6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UCAB/Física General.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ad79d3a6fa830da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CheatSheets/LaTeX Suite.md",
-                "mode": "preview",
+                "file": "MCU - MCUV.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UCAB/Física General.md",
+                "file": "MCU - MCUV.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UCAB/Física General.md",
+                "file": "MCU - MCUV.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UCAB/Física General.md"
+                "file": "MCU - MCUV.md"
               }
             }
           }
@@ -172,35 +172,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb9d3c5a1a0bbb5c",
+  "active": "3a1651f025d63ee6",
   "lastOpenFiles": [
-    "UCAB/Universidad Católica Andres Bello.md",
-    "Movimiento Parabólico.md",
     "To Do List/To Do List.md",
-    "CheatSheets/LaTeX Suite.md",
     "MCU - MCUV.md",
+    "Software Engineering/Linux Command Line.md",
     "Movimiento Relativo.md",
     "UCAB/Vectores en el Plano y Espacio.md",
-    "UCAB/Álgebra Lineal.md",
-    "UCAB/Física General.md",
-    "Geometria en el Espacio.md",
     "Software Engineering/Vim.md",
-    "UCAB/Sistemas de Ecuaciones.md",
-    "UCAB/Vectores en el Plano y Espacio",
-    "Software Engineering/Linux Command Line.md",
-    "Software Engineering/IDEs, Code Editors, Apps....md",
-    "Software Engineering/VS Code.md",
-    "Software Engineering/Software Engineering.md",
-    "CheatSheets/Markdown.md",
+    "Movimiento Parabólico.md",
+    "Geometria en el Espacio.md",
+    "conflict-files-obsidian-git.md",
     "CheatSheets/Obsidian.md",
     "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
+    "Software Engineering/VS Code.md",
     "UCAB/Contabilidad Financiera.md",
     "UCAB/Asientos de Cierre.md",
     "UCAB/Asientos de Ajuste.md",
     "UCAB/Depreciaciones, Alquileres y Seguros.md",
     "UCAB/Introducción a la Contabilidad Financiera.md",
+    "Software Engineering/IDEs, Code Editors, Apps....md",
+    "CheatSheets/LaTeX Suite.md",
+    "CheatSheets/Markdown.md",
     "Main Hub.md",
     "UCAB/Números Complejos.md",
+    "UCAB/Álgebra Lineal.md",
+    "UCAB/Libro Diario y Libro Mayor.md",
+    "UCAB/Tipos de Cuentas.md",
+    "UCAB/Sistemas de Ecuaciones.md",
     "To Do List",
     "Software Engineering",
     "CheatSheets",
@@ -210,6 +209,7 @@
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Temporal",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Inputs",
     "Templates/Obsidian-Template-Vault-1.0.0/Templates/Formatting",
+    "Templates/Obsidian-Template-Vault-1.0.0/Templates/Dataview",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210323185756.png",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210224210010.png",
     "Templates/Obsidian-Template-Vault-1.0.0/Media/Pasted image 20210124122452.png",
