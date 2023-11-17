@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCU - MCUV.md",
+                "file": "Movimiento Parabólico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCU - MCUV.md",
+                "file": "To Do List/To Do List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCU - MCUV.md",
+                "file": "To Do List/To Do List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU - MCUV.md"
+                "file": "To Do List/To Do List.md"
               }
             }
           }
@@ -172,15 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a1651f025d63ee6",
+  "active": "8bfbf9756d91dbb5",
   "lastOpenFiles": [
-    "To Do List/To Do List.md",
+    "Movimiento Parabólico.md",
+    "UCAB/Física General.md",
     "MCU - MCUV.md",
-    "Software Engineering/Linux Command Line.md",
     "Movimiento Relativo.md",
+    "To Do List/To Do List.md",
+    "Software Engineering/Linux Command Line.md",
     "UCAB/Vectores en el Plano y Espacio.md",
     "Software Engineering/Vim.md",
-    "Movimiento Parabólico.md",
     "Geometria en el Espacio.md",
     "conflict-files-obsidian-git.md",
     "CheatSheets/Obsidian.md",
@@ -199,7 +199,6 @@
     "UCAB/Álgebra Lineal.md",
     "UCAB/Libro Diario y Libro Mayor.md",
     "UCAB/Tipos de Cuentas.md",
-    "UCAB/Sistemas de Ecuaciones.md",
     "To Do List",
     "Software Engineering",
     "CheatSheets",

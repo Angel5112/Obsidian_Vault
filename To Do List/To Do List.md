@@ -2,8 +2,8 @@
 
 - [ ] Plan de Acción del Proyecto - Ecología
 - [x] Videos de MCU, MCUV y Movimiento Parabólico - Física
-- [ ] Ejercicios de Movimiento Relativo, MCU y MCUV - Física
-- [ ] Realizar Formulario - Física
+- [x] Ejercicios de Movimiento Relativo, MCU y MCUV - Física
+- [x] Realizar Formulario - Física
 - [ ] Agregar Parametrizacion de Planos - Algebra Lineal
 
 ### Software Engineering Tasks:
