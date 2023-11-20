@@ -13,11 +13,11 @@ Dada la **Vida Útil del Vehículo, Costo del Vehículo y Km Recorridos,** se pu
 
 Dada la **Vida Util de la Maquinaria, Costo de la Maquinaria y Horas Maquina,** se puede calcular por año el gasto de depreciación anual de maquinaria mediante la siguiente operación: $$depreciacionMaquinaria = \frac{costo}{vidaUtil}\cdot horasMaquina$$
 <br>
-#### Cálculo de Alquileres
+### Cálculo de Alquileres
 
 Dados la **Fecha de Renovación del Alquiler, Costo del Alquiler y Fecha de Cierre,** se puede calcular el costo total de alquileres por año de la siguiente forma: $$alquileres = \frac{costo}{unidadFecha}\cdot(fechaCierre - fechaRenovacion)$$
 <br>
-#### Cálculo de Pólizas de Seguro
+### Cálculo de Pólizas de Seguro
 
 Dados la **Fecha Inicial de Contratación, Precio de Compra y Fecha Final del Contrato,** se puede calcular el costo total de las pólizas de seguro de la siguiente forma :$$poliza = \frac{costo}{unidadFecha}\cdot(fechaCierre - fechaRenovacion)$$
 
@@ -25,7 +25,7 @@ Se debe calcular cada póliza anual por separado, y la póliza total vendrá dad
 
 *Importante:*  Cuidado con las pólizas de años anteriores, pues al realizar la operación de $fechaCierre - fechaRenovacion$, se deberá restar ese valor a **12 meses** para poder determinar lo restante de la póliza anterior, ese valor se deberá multiplicar en el calculo de la póliza sustituyendo la resta de fechas.
 <br>
-#### Interés Simple
+### Interés Simple
 
 Dado el **Monto o Capital, Porcentaje de Interés, la Fecha de Cierre y la Fecha de Solicitud,** se puede calcular el monto del interés simple mediante la siguiente formula: $$I=Capital \cdot Tasa\cdot Tiempo$$
 *Importante:* Tiempo no es mas que $Tiempo=fechaCierre-fechaSolicitud$ y el capital vendrá dado por la cuenta indicada en el ejercicio, por ejemplo, una entrega de crédito hace referencia al monto asociado a la cuenta de **Documentos por Cobrar.**

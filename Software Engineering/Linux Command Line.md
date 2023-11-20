@@ -83,6 +83,8 @@
 *Ranger:*  Gestor de archivos nativo en la terminal -> `ranger`
 
 *Tmux:*  Permite tener múltiples sesiones de shell a la vez -> `tmux`
+
+*gnome-pomodoro:*  Permite el uso de Pomodoro -> `sudo apt-get install gnome-pomodoro`
 <br>
 ### TMUX Hotkeys
 #### Sesiones

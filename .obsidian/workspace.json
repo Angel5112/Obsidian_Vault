@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do List/To Do List.md",
+                "file": "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aaa679fea2db259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UCAB/Tipos de Cuentas.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c98932b6e9b357ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software Engineering/Linux Command Line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a1651f025d63ee6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MCU - MCUV.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCU - MCUV.md",
+                "file": "UCAB/Tipos de Cuentas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCU - MCUV.md",
+                "file": "UCAB/Tipos de Cuentas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCU - MCUV.md"
+                "file": "UCAB/Tipos de Cuentas.md"
               }
             }
           }
@@ -172,34 +160,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a1651f025d63ee6",
+  "active": "7aaa679fea2db259",
   "lastOpenFiles": [
-    "To Do List/To Do List.md",
-    "MCU - MCUV.md",
+    "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
     "Software Engineering/Linux Command Line.md",
-    "Movimiento Relativo.md",
-    "UCAB/Vectores en el Plano y Espacio.md",
+    "UCAB/Tipos de Cuentas.md",
+    "Software Engineering/IDEs, Code Editors, Apps....md",
+    "Software Engineering/Software Engineering.md",
+    "To Do List/To Do List.md",
     "Software Engineering/Vim.md",
     "Movimiento Parabólico.md",
+    "MCU - MCUV.md",
+    "Movimiento Relativo.md",
+    "UCAB/Vectores en el Plano y Espacio.md",
     "Geometria en el Espacio.md",
     "conflict-files-obsidian-git.md",
     "CheatSheets/Obsidian.md",
-    "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
     "Software Engineering/VS Code.md",
     "UCAB/Contabilidad Financiera.md",
     "UCAB/Asientos de Cierre.md",
     "UCAB/Asientos de Ajuste.md",
     "UCAB/Depreciaciones, Alquileres y Seguros.md",
     "UCAB/Introducción a la Contabilidad Financiera.md",
-    "Software Engineering/IDEs, Code Editors, Apps....md",
     "CheatSheets/LaTeX Suite.md",
     "CheatSheets/Markdown.md",
     "Main Hub.md",
     "UCAB/Números Complejos.md",
     "UCAB/Álgebra Lineal.md",
     "UCAB/Libro Diario y Libro Mayor.md",
-    "UCAB/Tipos de Cuentas.md",
-    "UCAB/Sistemas de Ecuaciones.md",
     "To Do List",
     "Software Engineering",
     "CheatSheets",

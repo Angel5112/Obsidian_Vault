@@ -1,10 +1,8 @@
 ### UCAB Tasks:
 
 - [ ] Plan de Acción del Proyecto - Ecología
-- [x] Videos de MCU, MCUV y Movimiento Parabólico - Física
-- [ ] Ejercicios de Movimiento Relativo, MCU y MCUV - Física
-- [ ] Realizar Formulario - Física
-- [ ] Agregar Parametrizacion de Planos - Algebra Lineal
+- [ ] Agregar Parametrizacion de Planos y Espacios Vectoriales- Algebra Lineal
+- [ ] Estudiar para el Parcial - Contabilidad Financiera
 
 ### Software Engineering Tasks:
 

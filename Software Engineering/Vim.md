@@ -10,6 +10,12 @@
 
 *Deshacer Cambios:*  U
 
+*Copiar:*  Presionar y
+
+*Cortar:*  Presionar d
+
+*Pegar:*  Presionar P
+
 #### Explorador de Archivos
 
 *Salir del Modo Edición:*  Esc
@@ -289,6 +295,42 @@ return M
 7. Probar los resultados en código de Python.
 8. Debugger -> Space + D + P + R  (Necesita de **Tests**)
 9. Agregar Breakpoint -> Space + D + B
+<br>
+### GitHub Copilot
+1. Obtener **GitHub Copilot.**
+2. Tener **NodeJS (Funciona con v20).**
+3. Instalar el plugin **Copilot.vim.** de la siguiente forma (Agregar el código a custom/plugins.lua):
+~~~lua
+  {
+    "github/copilot.vim",
+    lazy = false,
+    config = function()
+      -- Mapping tab is already used by NvChad
+      vim.g.copilot_no_tab_map = true;
+      vim.g.copilot_assume_mapped = true;
+      vim.g.copilot_tab_fallback = "";
+      -- The mapping is set to other key, see custom/lua/mappings
+      -- or run <leader>ch to see copilot mapping section
+    end,
+  },
+
+~~~
+4. Agregar el **mapping** en custom/configs/mappings.lua:
+~~~lua
+M.copilot = {
+  i = {
+    ["<C-l>"] = {
+      function()
+        vim.fn.feedkeys(vim.fn['copilot#Accept'](), '')
+      end,
+      "Copilot Accept",
+      {replace_keycodes = true, nowait=true, silent=true, expr=true, noremap=true}
+    }
+  }
+}
+
+~~~
+6. Usar el comando `Lazy sync` ó `Lazy Install copilot.vim`
 <br>
 #### Tags
 
