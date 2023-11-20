@@ -25,14 +25,23 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "UCAB/Tipos de Cuentas.md",
                 "mode": "preview",
+=======
+                "file": "Movimiento Parabólico.md",
+                "mode": "source",
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
                 "source": false
               }
             }
           }
+<<<<<<< HEAD
         ],
         "currentTab": 1
+=======
+        ]
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
       }
     ],
     "direction": "vertical"
@@ -99,7 +108,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "UCAB/Tipos de Cuentas.md",
+=======
+                "file": "To Do List/To Do List.md",
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "UCAB/Tipos de Cuentas.md",
+=======
+                "file": "To Do List/To Do List.md",
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +156,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "UCAB/Tipos de Cuentas.md"
+=======
+                "file": "To Do List/To Do List.md"
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
               }
             }
           }
@@ -160,6 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "7aaa679fea2db259",
   "lastOpenFiles": [
     "UCAB/Depreciaciones, Alquileres, Seguros e Interés Simple.md",
@@ -170,9 +192,21 @@
     "To Do List/To Do List.md",
     "Software Engineering/Vim.md",
     "Movimiento Parabólico.md",
+=======
+  "active": "8bfbf9756d91dbb5",
+  "lastOpenFiles": [
+    "Movimiento Parabólico.md",
+    "UCAB/Física General.md",
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
     "MCU - MCUV.md",
     "Movimiento Relativo.md",
+    "To Do List/To Do List.md",
+    "Software Engineering/Linux Command Line.md",
     "UCAB/Vectores en el Plano y Espacio.md",
+<<<<<<< HEAD
+=======
+    "Software Engineering/Vim.md",
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
     "Geometria en el Espacio.md",
     "conflict-files-obsidian-git.md",
     "CheatSheets/Obsidian.md",
@@ -188,6 +222,10 @@
     "UCAB/Números Complejos.md",
     "UCAB/Álgebra Lineal.md",
     "UCAB/Libro Diario y Libro Mayor.md",
+<<<<<<< HEAD
+=======
+    "UCAB/Tipos de Cuentas.md",
+>>>>>>> 17a01c2de3449441c1c71ada883edbdc6dbeae90
     "To Do List",
     "Software Engineering",
     "CheatSheets",
